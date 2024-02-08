@@ -1,16 +1,16 @@
-### Hi there 👋
+# Biodata
 
-<!--
-**riskanaa/riskanaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nama: riskana
 
-Here are some ideas to get you started:
+## Tentang Saya:
+Saya adalah seorang siswa SMA yang penuh semangat dan bersemangat untuk belajar dan mengembangkan diri. Minat saya mencakup berbagai bidang seperti teknologi, seni, dan sains. Selain fokus pada akademis, saya juga aktif dalam kegiatan ekstrakurikuler dan berusaha memberikan kontribusi positif dalam lingkungan sekitar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pendidikan:
+- SMA - (2023-2025)
+
+## Keahlian:
+1. Kemampuan Komunikasi.
+2. Kepemimpinan.
+
+## Kontak:
+- Email: riskanurazizah102@gmail.com
